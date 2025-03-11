@@ -15,10 +15,10 @@ This **Data Jobs Salary Dashboard** was created to analyze real-world salary tre
 
 **Excel Skills Used**   
 
-✅ Charts 
-✅ Data Validation    
-✅ Formulas & Functions    
-✅ Data Cleaning & Formatting  
+✅ Charts   
+✅ Data Validation      
+✅ Formulas & Functions      
+✅ Data Cleaning & Formatting    
 
 # 📊 Dashboard Build
 📈 Chart: Data Job Salaries - Bar Chart
